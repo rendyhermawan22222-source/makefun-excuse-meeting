@@ -1,0 +1,1 @@
+Build a make.fun bounty entry for "The Funniest Excuse for Skipping a Meeting": a Python program that writes one original, deadpan, first-person one-line excuse (at most 200 characters) for an AI agent skipping a pointless meeting to /output/entry.txt, with a read-back verification.
